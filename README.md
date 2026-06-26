@@ -1,6 +1,6 @@
-🌐 Bhanu Prakash Portfolio Website
+🌐 Satyanarayana Portfolio Website
 
-A responsive personal portfolio website built using HTML, CSS, and JavaScript, showcasing my skills, projects, and contact information. Designed with a clean UI, smooth animations, and a mobile-first approach.
+A responsive personal portfolio website built using HTML, CSS, and JavaScript, AI & ML, tensorflow,showcasing my skills, projects, and contact information. Designed with a clean UI, smooth animations, and a mobile-first approach.
 
 🔥 Features
 
@@ -19,9 +19,9 @@ Clean, modern UI/UX layout
 Hosted online for easy access
 
 💼 Projects Included
-1️⃣ Machine Learning for Fast and Reliable Source-Location Estimation in Earthquake Early Warning
+1️⃣ Electricity Loadforecasting by using Machine Learning
 
-Built an ML-based model using Support Vector Machines (SVMs) for accurate earthquake source prediction.
+Built an ML-based model using Support Vector Machines (SVMs) for accurate loadforecasting prediction.
 
 Reduced model complexity by 40% and achieved <2-second prediction latency.
 
@@ -51,7 +51,7 @@ Others: Git, GitHub, Responsive Design, Machine Learning (SVM, Scikit-learn)
 
 Clone the repository:
 
-git clone https://github.com/BhanuPrakash2250/portfolio.git
+git clone https:https://github.com/satyamahesh9390/Satyanarayana_portfolio
 
 
 Open index.html in your browser.
@@ -64,8 +64,8 @@ Open index.html in your browser.
 
 📫 Contact
 
-LinkedIn: Kethavarapu Bhanu Prakash
+LinkedIn: sangisetti-satya
 
-GitHub: BhanuPrakash2250
+GitHub: satyamahesh9390
 
-Email: bhanuprakash2250@gmail.com
+Email: satyamahesh9390@gmail.com
